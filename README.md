@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 Introduction
-I am an Informatics Engineering undergrad 🎓 and an Aspiring ML & AI Engineer 🤖. Currently at the beginner, trying to understand algorithms, and enjoying the process of building my foundational skills in artificial intelligence!
+I am an Informatics Engineering undergrad 🎓 and an Aspiring ML & AI Engineer 🤖. Currently at the beginner, trying to understand algorithms, and enjoying the process of building my foundational skill.
 
 ## 🛠️ Skills & Tech Stack
 *(Technologies I'm familiar with and currently exploring)*
