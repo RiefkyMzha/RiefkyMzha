@@ -36,4 +36,4 @@ I am an Informatics Engineering undergrad 🎓. Currently at the beginner, tryin
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rodiculous)
 
 ## 
-When I'm not debugging my code, you can probably find me grinding in Genshin Impact, or playing a quick match of Mobile Legends
+When I'm not debugging my code, you can probably find me grinding in Genshin Impact or playing a quick match of Mobile Legends
