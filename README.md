@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500" alt="Coding GIF">
-</div>
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500" alt="Coding GIF">
+<br>
 
-## 👨‍💻 Introduction
-I am an Informatics Engineering undergrad 🎓. Currently at the beginner, trying to understand algorithms, and enjoying the process of building my foundational skill.
+---
+I am an Informatics Engineering undergrad. Currently at the beginner stage, trying to understand algorithms, and enjoying the process of building my foundational skill.
 
-## 🛠️ Skills & Tech Stack
+---
 *(Technologies I'm familiar with and currently exploring)*
 
 ### 💻 Programming Languages
@@ -15,25 +15,26 @@ I am an Informatics Engineering undergrad 🎓. Currently at the beginner, tryin
 ### 🤖 AI & Data Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <br>
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 ![Imblearn](https://img.shields.io/badge/-Imblearn-8A2BE2?style=for-the-badge&logoColor=white)
 
 ### 🚀 Tools & IDE
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🎮 Game Engine & 🗄️ Database
+### 🎮 Game Engine
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🤝 Let's Connect!
+---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kymzhaa)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rodiculous)
 
-## 
-When I'm not debugging my code, you can probably find me grinding in Genshin Impact or playing a quick match of Mobile Legends
+---
+*When I'm not debugging my code, you can probably find me (which is honestly most of the time) grinding in Genshin Impact or playing a quick match of Mobile Legends!*
+
+</div>
