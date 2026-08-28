@@ -3,12 +3,12 @@
 </div>
 
 ## 👨‍💻 Introduction
-I am an Informatics Engineering undergrad 🎓 and an Aspiring ML & AI Engineer 🤖. Currently at the beginner, trying to understand algorithms, and enjoying the process of building my foundational skill.
+I am an Informatics Engineering undergrad 🎓. Currently at the beginner, trying to understand algorithms, and enjoying the process of building my foundational skill.
 
 ## 🛠️ Skills & Tech Stack
 *(Technologies I'm familiar with and currently exploring)*
 
-### 💻 Programming Languages & Web Tech
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
